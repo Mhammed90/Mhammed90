@@ -14,12 +14,6 @@
 - **Tools & Technologies**: Git, Docker, Postman, Visual Studio.
 - **Problem Solving**: Strong foundation in algorithms, data structures, and competitive programming.
 
-
-## Achievements
-- 🥇 Ranked 40th in the 2022 ECPC Qualifications Collegiate Programming Contest.
-- 🥈 Ranked 97th in the 2021 ECPC Qualifications Collegiate Programming Contest.
-- Solved 2000+ problems on **LeetCode** and **Codeforces**.
-
 ## Let's Connect
 - 📧 Email: [abdalkreemm31@gmail.com](mailto:abdalkreemm31@gmail.com)
 - 💼 LinkedIn: [Mohamed Abdalkreem](https://linkedin.com/in/mohamed-abdalkreem-1b67b7225)
